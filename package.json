@@ -1,6 +1,6 @@
 {
   "name": "web-polyfill",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "The polyfills you&#39;ll need in a web app.",
   "repository": {
     "url": "egoist/web-polyfill",
