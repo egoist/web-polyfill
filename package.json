@@ -1,0 +1,23 @@
+{
+  "name": "vue-polyfill",
+  "version": "0.0.0",
+  "description": "The polyfills you&#39;ll need in a Vue app.",
+  "repository": {
+    "url": "egoist/vue-polyfill",
+    "type": "git"
+  },
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "echo 'no tests!'"
+  },
+  "author": "egoist <0x142857@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "object-assign": "^4.1.1",
+    "promise-polyfill": "^6.0.2"
+  }
+}
