@@ -1,6 +1,6 @@
-# vue-polyfill
+# web-polyfill
 
-[![NPM version](https://img.shields.io/npm/v/vue-polyfill.svg?style=flat)](https://npmjs.com/package/vue-polyfill) [![NPM downloads](https://img.shields.io/npm/dm/vue-polyfill.svg?style=flat)](https://npmjs.com/package/vue-polyfill) [![CircleCI](https://circleci.com/gh/egoist/vue-polyfill/tree/master.svg?style=shield)](https://circleci.com/gh/egoist/vue-polyfill/tree/master)  [![donate](https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&style=flat)](https://github.com/egoist/donate)
+[![NPM version](https://img.shields.io/npm/v/web-polyfill.svg?style=flat)](https://npmjs.com/package/web-polyfill) [![NPM downloads](https://img.shields.io/npm/dm/web-polyfill.svg?style=flat)](https://npmjs.com/package/web-polyfill) [![CircleCI](https://circleci.com/gh/egoist/web-polyfill/tree/master.svg?style=shield)](https://circleci.com/gh/egoist/web-polyfill/tree/master)  [![donate](https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&style=flat)](https://github.com/egoist/donate)
 
 ## What's polyfill-ed?
 
@@ -12,13 +12,13 @@ How big is the size? 8KB minified and 3KB gzipped. Probably the smallest one for
 ## Install
 
 ```bash
-yarn add vue-polyfill
+yarn add web-polyfill
 ```
 
 ## Usage
 
 ```js
-import 'vue-polyfill'
+import 'web-polyfill'
 ```
 
 ## Contributing
@@ -32,7 +32,7 @@ import 'vue-polyfill'
 
 ## Author
 
-**vue-polyfill** © [egoist](https://github.com/egoist), Released under the [MIT](./LICENSE) License.<br>
-Authored and maintained by egoist with help from contributors ([list](https://github.com/egoist/vue-polyfill/contributors)).
+**web-polyfill** © [egoist](https://github.com/egoist), Released under the [MIT](./LICENSE) License.<br>
+Authored and maintained by egoist with help from contributors ([list](https://github.com/egoist/web-polyfill/contributors)).
 
 > [egoistian.com](https://egoistian.com) · GitHub [@egoist](https://github.com/egoist) · Twitter [@rem_rin_rin](https://twitter.com/rem_rin_rin)

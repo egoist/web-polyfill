@@ -1,9 +1,9 @@
 {
-  "name": "vue-polyfill",
+  "name": "web-polyfill",
   "version": "0.0.0",
   "description": "The polyfills you&#39;ll need in a Vue app.",
   "repository": {
-    "url": "egoist/vue-polyfill",
+    "url": "egoist/web-polyfill",
     "type": "git"
   },
   "main": "index.js",
