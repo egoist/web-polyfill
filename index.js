@@ -1,6 +1,5 @@
 if (!window.Promise) {
-  var Promise = require('promise-polyfill')
-  window.Promise = Promise
+  window.Promise = require('promise-polyfill')
 }
 
 Object.assign = require('object-assign')
